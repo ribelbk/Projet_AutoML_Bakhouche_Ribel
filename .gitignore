@@ -1,0 +1,30 @@
+# General
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# AutoML Specific outputs (if any)
+# (Keep data folders if they are part of the project structure, otherwise ignore)
+# data_*/
